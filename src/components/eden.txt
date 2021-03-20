@@ -1,0 +1,34 @@
+NavBar{
+    Logo
+    Home{
+        Danny,Kidist,Melaku
+    }
+    About us{
+        Rozi,Yeshi,Mish
+    }
+    Gallery{
+        Eden,Meski,Mike
+    }
+    Service{
+        Selam,Haile,Abel,Zi
+    }
+    //Tastimonial
+    Contact Us{
+        Blen,Wube,solomon
+    }
+}
+footer{
+    DannyBoy,Mafi,Mohammed
+}
+
+
+var a=['dog','cat','hen'];
+ a[100]='fox';
+  console.log(a.length);
+
+if(0)=>false ""
+  const x = 6 % 2;
+  const y = x ? 'one':'two';
+  console.log(y);
+
+  Boolean('false')
